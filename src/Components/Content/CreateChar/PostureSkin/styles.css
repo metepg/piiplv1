@@ -1,0 +1,11 @@
+.postureskin-controller {
+  display: flex;
+}
+
+.postureskin-controller section {
+  width: 50%;
+}
+
+h2 {
+  font-size: 2rem;
+}

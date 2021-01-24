@@ -1,0 +1,16 @@
+.posture-controller {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.posture-controller p {
+  width: 100%;
+  font-size: 1.5rem;
+}
+
+.posture-controller button {
+  margin-bottom: 1rem;
+  padding: 5px 40px;
+  border-radius: 50px;
+}
