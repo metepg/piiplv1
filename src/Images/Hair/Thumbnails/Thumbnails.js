@@ -1,12 +1,12 @@
-import { ReactComponent as Bald } from "./thumb_hair_0.svg";
-import { ReactComponent as Hair1 } from "./thumb_hair_1.svg";
-import { ReactComponent as Hair2 } from "./thumb_hair_2.svg";
-import { ReactComponent as Hair3 } from "./thumb_hair_3.svg";
-import { ReactComponent as Hair4 } from "./thumb_hair_4.svg";
-import { ReactComponent as Hair5 } from "./thumb_hair_5.svg";
-import { ReactComponent as Hair6 } from "./thumb_hair_6.svg";
-import { ReactComponent as Hair7 } from "./thumb_hair_7.svg";
-import { ReactComponent as Hair8 } from "./thumb_hair_8.svg";
+import { ReactComponent as Bald } from './thumb_hair_0.svg';
+import { ReactComponent as Hair1 } from './thumb_hair_1.svg';
+import { ReactComponent as Hair2 } from './thumb_hair_2.svg';
+import { ReactComponent as Hair3 } from './thumb_hair_3.svg';
+import { ReactComponent as Hair4 } from './thumb_hair_4.svg';
+import { ReactComponent as Hair5 } from './thumb_hair_5.svg';
+import { ReactComponent as Hair6 } from './thumb_hair_6.svg';
+import { ReactComponent as Hair7 } from './thumb_hair_7.svg';
+import { ReactComponent as Hair8 } from './thumb_hair_8.svg';
 
 export default {
   bald: Bald,
