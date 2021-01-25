@@ -9,10 +9,10 @@ import Shoes from '../../../../Images/Shoes/Thumbnails/Thumbnails';
 function BodyParts() {
   return (
     <section className="bodyparts-controller">
-      <BodyPart name="Hair" images={Hair} />
-      <BodyPart name="Lower Body" images={UpperBody} />
-      <BodyPart name="Upper Body" images={LowerBody} />
-      <BodyPart name="Shoes" images={Shoes} />
+      <BodyPart name="Hair" images={Hair} id="hairName" />
+      <BodyPart name="Upper Body" images={UpperBody} id="upperBodyName" />
+      <BodyPart name="Lower Body" images={LowerBody} id="lowerBodyName" />
+      <BodyPart name="Shoes" images={Shoes} id="shoesName" />
     </section>
   );
 }

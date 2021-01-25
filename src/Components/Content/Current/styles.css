@@ -1,20 +1,22 @@
 .current-controller {
-  margin-top: 9.4%;
-  min-width: 500px;
+  min-width: 600px;
   display: flex;
   flex-wrap: wrap;
+  height: 100%;
 }
 
 .current {
-  height: 500px;
-  max-width: 500px;
-  width: 100%;
-  float: left;
+  height: 600px;
+  width: 80%;
   position: relative;
+  margin-top: 218px;
 }
 
 .pic-absolute {
   position: absolute;
-  left: 0;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
   border: rgb(219, 49, 128) 1px solid;
+  height: 100%;
 }

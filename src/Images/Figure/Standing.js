@@ -1,4 +1,3 @@
-import React from 'react';
 import { ReactComponent as Stand1 } from './SVG/Stand/standing_2.svg';
 
 const images = {
