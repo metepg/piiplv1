@@ -26,11 +26,11 @@ const Standing = ({ options }) => {
         color={upperBodyColor}
         name={upperBodyName}
       />
+      <Shoes color={shoesColor} name={shoesName} />
       <LowerBody
         color={lowerBodyColor}
         name={lowerBodyName}
       />
-      <Shoes color={shoesColor} name={shoesName} />
     </>
   );
 };
